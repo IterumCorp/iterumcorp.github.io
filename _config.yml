@@ -1,0 +1,51 @@
+title: Makadev
+description: Maka devblog
+author: Kaic Bastidas & Marcelo da Silva
+github: https://github.com/tcK1
+about: Wannabe game maker.
+disqus_shortname: 01mk
+google_analytics: UA-80289341-1
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-skype
+      link: "#"
+    - icon: fa-twitter
+      link: "#"
+    - icon: fa-linkedin
+      link: "#"
+    - icon: fa-stack-exchange
+      link: "#"
+
+share:
+  twitter_username:
+  fb_appid:
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: Projects
+      url: /projects/
+    - text: Github
+      url: https://github.com/tcK1
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://tcK1.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
