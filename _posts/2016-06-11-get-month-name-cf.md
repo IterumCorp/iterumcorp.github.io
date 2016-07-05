@@ -3,6 +3,7 @@ layout: post
 title:  "get Month Name [CF]"
 date:   2016-06-11 03:43:45 +0700
 categories: [python, codefights]
+excerpt_separator: <!--exc-->
 ---
 
 Map the given integer to a month.
@@ -20,6 +21,8 @@ Map the given integer to a month.
 * **[output] string**
 
 A `3`-letter abbreviation of month number `mo` or `"invalid month"` if the month doesn't exist.
+
+<!--exc-->
 
 Here are abbreviations of all months:
 
