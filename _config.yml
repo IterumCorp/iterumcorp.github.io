@@ -19,6 +19,8 @@ social:
       link: "https://github.com/01mk"
     - icon: fa-twitter
       link: "#"
+    - icon: fa-youtube
+      link: "#"
     
 share:
   twitter_username:
