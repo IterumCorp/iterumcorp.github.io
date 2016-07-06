@@ -16,22 +16,31 @@ collections:
 
 social:
     - icon: fa-github
+      text: Github
       link: "https://github.com/01mk"
     - icon: fa-twitter
+      text: Twitter
       link: "#"
     - icon: fa-youtube
+      text: YouTube
       link: "#"
-    
+
 share:
   twitter_username:
   fb_appid:
 
 urls:
-    - text: About Me
+    - icon: fa-home
+      text: Home
+      url: /
+    - icon: fa-users
+      text: About Me
       url: /about/
-    - text: Projects
+    - icon: fa-archive
+      text: Projects
       url: /projects/
-    - text: XML Feed
+    - icon: fa-file-code-o
+      text: XML Feed
       url: /feed.xml
 
 url: "https://01mk.github.io"

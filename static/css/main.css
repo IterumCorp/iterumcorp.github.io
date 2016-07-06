@@ -38,7 +38,7 @@ h2 {
     margin-bottom: 5px;
     color: #666666;
 }
-        
+
 h3 {
     font-weight: normal;
     margin-bottom: 5px;
@@ -73,7 +73,7 @@ div.right {
     width: 500px;
     float: left;
 }
-           
+
 div.content {
     border-top: 1px solid #E6E6E6;
     margin-top: 5px;
@@ -178,6 +178,23 @@ div.col-sm-3 img#about {
 }
 .PageNavigation .prev {
     text-align: left;
+}
+
+.navigation{
+    display: block;
+    margin: 10px 0;
+}
+.navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navigation ul li {
+    display: inline-block;
+    margin: 0 5px;
+}
+.navigation li a {
+    font-size: 16px;
 }
 
 .social{
