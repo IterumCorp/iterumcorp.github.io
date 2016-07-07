@@ -80,7 +80,7 @@ div.content {
     padding-top: 5px;
 }
 
-div.content pre {
+pre {
     background: #333333;
     padding: 10px;
     color: #FFF;
@@ -90,7 +90,7 @@ div.content pre {
     border: none;
 }
 
-div.content .highlight {
+.highlight {
 	background: #333333;
 }
 
