@@ -125,11 +125,11 @@
 
                     <div class= "navigation">
                         <center>
-                          <ul>
-                            {% for link in site.urls %}
-                                <li><a href="{{ link.url }}" target="_blank"><i class="fa {{ link.icon }}" data-toggle="tooltip" title="{{link.text}}"></i></a></li>
-                            {% endfor %}
-                          </ul>
+                            <ul>
+                              {% for link in site.urls %}
+                                  <li><a href="{{ link.url }}" target="_blank"><i class="fa {{ link.icon }}" data-toggle="tooltip" title="{{link.text}}"></i></a></li>
+                              {% endfor %}
+                            </ul>
                         </center>
                     </div>
 
@@ -176,6 +176,7 @@
         <script src="/static/js/super-search.js"></script>
         <script src="/static/js/thickbox-compressed.js"></script>
         <script src="/static/js/projects.js"></script>
+        <!-- Tooltip nos menus -->
         <script>
           $(function () {
             $('[data-toggle="tooltip"]').tooltip()

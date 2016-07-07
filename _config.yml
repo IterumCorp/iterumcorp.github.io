@@ -34,12 +34,12 @@ urls:
       text: Home
       url: /
     - icon: fa-users
-      text: About Me
+      text: About Us
       url: /about/
     - icon: fa-archive
       text: Projects
       url: /projects/
-    - icon: fa-file-code-o
+    - icon: fa-rss
       text: XML Feed
       url: /feed.xml
 
