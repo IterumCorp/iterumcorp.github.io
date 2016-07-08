@@ -100,7 +100,7 @@
     });
 
     searchInputEl.addEventListener('input', function onInputChange() {
-        var currentResultHash, d;
+        var currentResultHash, d, t;
 
         currentInputValue = (searchInputEl.value + '').toLowerCase();
         if (!currentInputValue || currentInputValue.length < 3) {
@@ -123,7 +123,12 @@
             searchResultsEl.classList.remove('is-hidden');
             searchResultsEl.innerHTML = matchingPosts.map(function (post) {
                 d = new Date(post.pubDate);
-                return '<li><a href="' + post.link + '">' + post.title + '<span class="search__result-date">' + d.toUTCString().replace(/.*(\d{2})\s+(\w{3})\s+(\d{4}).*/,'$2 $1, $3') + '</span></a></li>';
+                if(post.title.split(" ").length > 4){
+                    t = post.title.split(/\s+/).slice(0,4).join(" ")+'...';    
+                } else {
+                    t = post.title;
+                }
+                return '<li><a href="' + post.link + '">' + t + '<span class="search__result-date">' + d.toUTCString().replace(/.*(\d{2})\s+(\w{3})\s+(\d{4}).*/,'$2 $1, $3') + '</span></a></li>';
             }).join('');
         }
         lastSearchResultHash = currentResultHash;
