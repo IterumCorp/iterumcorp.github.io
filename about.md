@@ -9,3 +9,5 @@ Friends since 2005, we always though about making something that other people co
 Now, we try to learn new things every now and then. Currently working with Unreal 4 and Maya we try to make things less shittier then before (and oh god, they were).
 
 With this blog we try to not only learn things but also explain to people that know less then us. For example, we focus on using Blueprints, seeing that a lot of people that want to make games don't have to like progamming. This is not only because one of us don't code, but also because inside RPGMaker, we rarely made any scripts.
+
+We mainly use [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) and [Autodesk Maya](http://www.autodesk.com.br/products/maya/overview), but we can occasionally use other tools.
