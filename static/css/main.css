@@ -69,6 +69,12 @@ div#container {
  * Right aka content column formatting
  * //////////////////////////////////
  */
+.home {
+    /*
+    background: #474747;
+    */
+}
+
 div.right {
     width: 500px;
     float: left;
