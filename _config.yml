@@ -1,9 +1,9 @@
-title: 01MK
-description: Maka devblog
+title: Iterum
+description: Devblog about our games.
 author: Kaic Bastidas & Marcelo da Silva
-github: https://github.com/01mk
-about: Wannabe game makers.
-disqus_shortname: 01mk
+github: https://github.com/IterumCorp
+about: Devblog about our games.
+disqus_shortname: iterum
 google_analytics: UA-80289341-1
 
 enableTags: true
@@ -17,7 +17,7 @@ collections:
 social:
     - icon: fa-github
       text: Github
-      link: "https://github.com/01mk"
+      link: "https://github.com/IterumCorp"
     - icon: fa-twitter
       text: Twitter
       link: "#"
@@ -43,7 +43,7 @@ urls:
       text: XML Feed
       url: /feed.xml
 
-url: "https://01mk.github.io"
+url: "https://iterumcorp.github.io"
 baseurl: ""
 paginate: 5
 per_page: 5
