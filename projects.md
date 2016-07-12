@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Few of my projects. Currently doing more in backend, actually in Python and Django.
+Our Projects, hosted on github. All of them have two folders, "ASSETS" and "GAME" which contains Mayas meshes and the unreal project respectively.
