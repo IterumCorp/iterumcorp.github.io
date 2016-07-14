@@ -2,9 +2,10 @@
  * Master styling
  */
 body {
-    font-family: "Roboto Condensed", Arial, sans-serif;
+    /* font-family: "Roboto Condensed", Arial, sans-serif; */
+    font-family: 'Merriweather', serif;
     background-color: #fff;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.5em;
     color: #666;
     font-weight: normal;
@@ -37,12 +38,14 @@ h2 {
     font-weight: normal;
     margin-bottom: 5px;
     color: #666666;
+    font-size: 20px;
 }
 
 h3 {
     font-weight: normal;
     margin-bottom: 5px;
     color: #666666;
+    font-size: 15px;
 }
 
 a, a:link, a:active {
@@ -69,10 +72,20 @@ div#container {
  * Right aka content column formatting
  * //////////////////////////////////
  */
+
+.debug {
+    border: dotted 1px black;    
+}
+
 .home {
     /*
     background: #474747;
     */
+    text-align: justify;
+}
+
+.post-content {
+    margin-top: 5px;
 }
 
 div.right {
