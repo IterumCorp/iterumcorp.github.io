@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post">
+<article class="">
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
@@ -50,7 +50,7 @@ layout: default
     				{% if i.url %} 
     				<a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
     				{% endif %}
-    				<span class="project-timeline">{{ i.date }}</span>
+    				<span class="project-timeline">{{ i.date | date: "%d/%m/%Y" }}</span>
     			</div>
     		</div>
     		<hr>

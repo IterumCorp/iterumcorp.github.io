@@ -4,7 +4,7 @@ title:  "Markdown Example."
 date:   2016-07-13
 categories: [markdown, example]
 excerpt_separator: <!--exc-->
-gif: 200.gif
+img: 2002.jpg
 ---
 
 An h1 header

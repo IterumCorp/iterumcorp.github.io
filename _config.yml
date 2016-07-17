@@ -1,8 +1,8 @@
 title: Iterum
-description: Devblog about our games.
+description: Devblog sobre nossos jogos.
 author: Kaic & Marcelo
 github: https://github.com/IterumCorp
-about: Devblog about our games.
+about: Devblog sobre nossos jogos.
 disqus_shortname: iterum
 google_analytics: UA-80289341-1
 
@@ -31,14 +31,14 @@ share:
 
 urls:
     - icon: fa-home
-      text: Home
+      text: Inicio
       url: /
     - icon: fa-users
-      text: About Us
-      url: /about/
+      text: Sobre
+      url: /sobre/
     - icon: fa-archive
-      text: Projects
-      url: /projects/
+      text: Projetos
+      url: /projetos/
     - icon: fa-rss
       text: XML Feed
       url: /feed.xml
