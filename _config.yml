@@ -43,7 +43,7 @@ urls:
       text: XML Feed
       url: /feed.xml
 
-url: "https://iterumcorp.github.io"
+url: "http://iterum.info"
 baseurl: ""
 paginate: 5
 per_page: 5
