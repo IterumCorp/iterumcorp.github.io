@@ -50,5 +50,6 @@ per_page: 5
 paginate_path: "/page:num/"
 markdown: kramdown
 gems:
+  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
