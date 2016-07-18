@@ -20,10 +20,10 @@ social:
       link: "https://github.com/IterumCorp"
     - icon: fa-twitter
       text: Twitter
-      link: "#"
+      link: "https://twitter.com/tck_aic"
     - icon: fa-youtube
       text: YouTube
-      link: "#"
+      link: "https://www.youtube.com/channel/UChJzR70zvKDiiqO6MMBGLiw"
 
 share:
   twitter_username:
