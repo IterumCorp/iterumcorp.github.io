@@ -2,7 +2,7 @@
 layout: post
 title:  "Câmera dinâmica"
 date:   2016-07-23
-categories: [câmera, unreal, blueprint]
+categories: [camera, unreal, blueprint]
 excerpt_separator: <!--exc-->
 img: 2016-07-23-camera-dinamica/PostIMG.PNG
 ---
