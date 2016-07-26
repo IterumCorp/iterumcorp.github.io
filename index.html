@@ -15,6 +15,7 @@ layout: default
         </a>
         <div class="post text">
           <h1><a href="{{ post.url }}">{{ post.title }}</a></h1> 
+          <span>{{ post.autor }}</span>
           <span class="time">{{ post.date | date: "%d/%m/%Y" }}</span>
           {% if post.categories %}
           <span class="categories">
