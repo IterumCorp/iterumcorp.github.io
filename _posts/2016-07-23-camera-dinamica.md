@@ -5,6 +5,7 @@ date:   2016-07-23
 categories: [camera, unreal, blueprint]
 excerpt_separator: <!--exc-->
 img: 2016-07-23-camera-dinamica/PostIMG.PNG
+autor: Kaic Bastidas
 ---
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/XvBQuHH1rfw" frameborder="0" allowfullscreen></iframe></center>
