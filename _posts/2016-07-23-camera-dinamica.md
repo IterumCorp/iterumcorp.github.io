@@ -102,8 +102,7 @@ Usei um trigger que quando o jogador passa por ele, a câmera se altera para a e
 E com isso terminamos nosso primeiro post no blog! Espero que tenha sido claro e caso alguma dúvida permaneça fique à vontade para usar a seção de comentários abaixo.
 
 Referências utilizadas:
-https://www.youtube.com/watch?v=UMcmqsMzcFg
-https://www.youtube.com/watch?v=nKM8sBH5Uu4
-https://www.youtube.com/watch?v=etk4sqtM7xI
-https://www.youtube.com/watch?v=zWMgRDa3bKY&list=PLZlv_N0_O1gaCL2XjKluO7N2Pmmw9pvhE&index=71
-
+  * [Unreal Engine 4 - Creating an auto-adjusting third-person camera](https://www.youtube.com/watch?v=UMcmqsMzcFg)
+  * [Unreal Engine 4 Tutorial : Changing the Camera](https://www.youtube.com/watch?v=nKM8sBH5Uu4)
+  * [Unreal Engine 4 Top Down Shooter Tutorial 1 "Moving and Flipbooks"](https://www.youtube.com/watch?v=etk4sqtM7xI)
+  * [13 até 18](https://www.youtube.com/watch?v=zWMgRDa3bKY&list=PLZlv_N0_O1gaCL2XjKluO7N2Pmmw9pvhE&index=71)
