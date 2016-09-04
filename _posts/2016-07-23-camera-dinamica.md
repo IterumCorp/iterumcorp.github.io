@@ -5,6 +5,7 @@ date:   2016-07-23
 categories: [camera, unreal, blueprint]
 excerpt_separator: <!--exc-->
 img: 2016-07-23-camera-dinamica/PostIMG.PNG
+autor: Kaic Bastidas
 ---
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/XvBQuHH1rfw" frameborder="0" allowfullscreen></iframe></center>
@@ -100,3 +101,9 @@ Podemos então, usar a blueprint do level, por exemplo, para fazer as transiçõ
 
 Usei um trigger que quando o jogador passa por ele, a câmera se altera para a especificada. Além disso, o evento BeginPlay é chamado para que alguma câmera esteja relacionada com o personagem ao início do jogo.
 E com isso terminamos nosso primeiro post no blog! Espero que tenha sido claro e caso alguma dúvida permaneça fique à vontade para usar a seção de comentários abaixo.
+
+Referências utilizadas:
+  * [Unreal Engine 4 - Creating an auto-adjusting third-person camera](https://www.youtube.com/watch?v=UMcmqsMzcFg)
+  * [Unreal Engine 4 Tutorial : Changing the Camera](https://www.youtube.com/watch?v=nKM8sBH5Uu4)
+  * [Unreal Engine 4 Top Down Shooter Tutorial 1 "Moving and Flipbooks"](https://www.youtube.com/watch?v=etk4sqtM7xI)
+  * [13 até 18](https://www.youtube.com/watch?v=zWMgRDa3bKY&list=PLZlv_N0_O1gaCL2XjKluO7N2Pmmw9pvhE&index=71)
