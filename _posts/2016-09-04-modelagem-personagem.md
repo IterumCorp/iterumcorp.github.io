@@ -5,6 +5,7 @@ date:   2016-09-04
 categories: [maya, personagem]
 excerpt_separator: <!--exc-->
 img: 2016-09-04-modelagem-personagem/img10.png
+autor: Marcelo da Silva
 ---
 
 A primeira coisa que você precisa ao criar um objeto 3D, é o Concept dele. Para o estilo de jogo que estamos projetando, escolhemos uma imagem da internet de um corpo com uma proporção próxima da que desejamos para a nossa personagem principal. Essa imagem servirá de concept para o nosso modelo. A imagem que foi escolhida foi a seguinte:
